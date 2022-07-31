@@ -8,6 +8,9 @@ A C# project collaboration between Christopher Rios, Mason Britsch and Nicholas 
 
 - <a href="https://github.com/ExploreAdrift">Nicholas Smith GitHub</a>
 
-A feature rich synthesizer board emulator with custom animated backgrounds, preset boards, a built in dashboard, recording and playback, and more!
+WARNING
+Difficult and scary!
 
-<a href="httpS://mrsynth.azurewebsites.net">Mr Synth Website</a>
+A thriller/puzzle solver that pays homage to the show Stranger Things! 
+
+<a href="https://strangerescape.azurewebsites.net/">Stranger Escape Website</a>
